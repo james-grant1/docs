@@ -1,0 +1,12 @@
+name: "ExAMPLE"
+version: "0.0.0"
+website: "https://www.google.com"
+docs: "https://lmgtfy.com"
+license:
+  text: "open source"
+  link: "https://opensource.org/licenses"
+terms: "Open source software, all source and binaries are available to all users"
+running: "running.rst"
+script: "script.rst"
+compile: "compile.rst"
+previous: False
